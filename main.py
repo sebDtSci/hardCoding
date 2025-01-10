@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from modelScratch import MLP
